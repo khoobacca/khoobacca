@@ -3,7 +3,7 @@ Hey everyone! Welcome to my temporary blog!
 
 
 
-> 2023/08/11
+# 2023/08/11
 I'm an aerospace materials engineering student at UBC interested in all sorts of things!
 When I'm not going to the gym, I like to keep up to date with world events and refine some analytic strategies for investing!
 I'm excited to start my life since I left my home environment and now that I'm writing this I'll probably keep a log of what I'm up to!
