@@ -16,5 +16,8 @@ I have 2 projects in mind for the coming months after I get onto the UAS drone d
 3. i'll probably upload some of my previous projects to github as well because why not!
 
 I'm going to really hone my skills this year and take a break from startups and just create things and network.
+
 I should get back to studying physics right now because I have a final coming up in a week and I need to apply for student loans, coop program, and work more on my start up
 (we're launching in september and we need more clients) If you're reading this check out https://uprep.academy/
+
+I just did the github tutorial...still kinda confused but it is what it is lmao.
