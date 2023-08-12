@@ -3,6 +3,10 @@ I'm an aerospace materials engineering student at UBC interested in all sorts of
 When I'm not going to the gym, I like to keep up to date with world events and refine some analytic strategies for investing!
 
 
+# 2023/08/12 - VSC and COVID-19 Prediction Software
+I'll probably end up writing in this whenever I need to not every day we'll see.
+
+Today I'm heading back to UBC later in the night so I'll see if I can get to uploading my prediction software by then. It's a good thing to start with because I haven't coded in a while and I need to set up VSC which was always a pain in the ass for me. Hopefully should take an hour or two total. After that I'm studying more then heading to the airport.
 
 
 # 2023/08/11 - DAY 1
