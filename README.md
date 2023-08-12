@@ -8,9 +8,9 @@ When I'm not going to the gym, I like to keep up to date with world events and r
 # 2023/08/11 - DAY 1
 I'm excited to start my life since I left my home environment and now that I'm writing this I'll probably keep a log of what I'm up to!
 
-Right now I'll keep a log of my day to day activities and what I'm up to.
+Right now I'll keep a log of my day to day activities and what I'm doing.
 I have 2 projects in mind for the coming months after I get onto a design team at UBC and finish setting up my educational startup:
-1. creating a portfolio website which will probably have a blog on it along with a mix of my other projects
+1. creating a portfolio website which will probably have a blog on it similar to what im writing (maybe the same) along with a mix of my other projects
 2. creating an ai that is able to predict stock movements because why not
 3. i'll probably upload some of my previous projects to github as well because why not!
 
