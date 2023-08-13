@@ -8,6 +8,8 @@ I'll probably end up writing in this whenever I need to not every day we'll see.
 
 Today I'm heading back to UBC later in the night so I'll see if I can get to uploading my prediction software by then. It's a good thing to start with because I haven't coded in a while and I need to set up VSC which was always a pain in the ass for me. Hopefully should take an hour or two total. After that I'm studying more then heading to the airport.
 
+Definetly not productive today. Traveling always takes a while and I only managed to get a little research on epidemiology models done. I'm hosting a meeting for my startup tomorrow so I'll go to bed early and just grind out tomorrow. I really need to catch up on physics jesus.
+
 
 # 2023/08/11 - DAY 1
 I'm excited to start my life since I left my home environment and now that I'm writing this I'll probably keep a log of what I'm up to!
