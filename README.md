@@ -5,6 +5,7 @@ When I'm not going to the gym, I like to keep up to date with world events and r
 # 2023/08/13 - Finals + Guten Tag!
 I have my final in 4 days so I'll be spending a majority of my time on that, plus getting ready for a 2 week vacation to germany. My 2 focuses in germany will be my startup and the prediction software. I need to find a better name for my project. anyways, ill do a bit more research tonight and get up and grind tomorrow.
 
+Update: im procrastinating physics which is bad. the good thing is im pretty excited about this project. Im still going to go to sleep early and get some rest but im gonna set up vsc first.
 
 # 2023/08/12 - VSC and COVID-19 Prediction Software
 I'll probably end up writing in this whenever I need to not every day we'll see.
