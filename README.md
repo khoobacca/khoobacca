@@ -2,9 +2,11 @@ Hey everyone, welcome to my temporary blog!
 I'm an aerospace materials engineering student at UBC interested in all sorts of things!
 When I'm not going to the gym, I like to keep up to date with world events and refine some analytic strategies for investing!
 
+# 2023/08/16
+Final in 2 days. going to come back to my project after.
+
 # 2023/08/14
 Back to researching models of epidemiology... not too much. Maybe if i have time ill chill and start relearning python and data analytics.
-
 
 # 2023/08/13 - Finals + Guten Tag!
 I have my final in 4 days so I'll be spending a majority of my time on that, plus getting ready for a 2 week vacation to germany. My 2 focuses in germany will be my startup and the prediction software. I need to find a better name for my project. anyways, ill do a bit more research tonight and get up and grind tomorrow.
@@ -17,7 +19,6 @@ I'll probably end up writing in this whenever I need to not every day we'll see.
 Today I'm heading back to UBC later in the night so I'll see if I can get to uploading my prediction software by then. It's a good thing to start with because I haven't coded in a while and I need to set up VSC which was always a pain in the ass for me. Hopefully should take an hour or two total. After that I'm studying more then heading to the airport.
 
 Definetly not productive today. Traveling always takes a while and I only managed to get a little research on epidemiology models done. I'm hosting a meeting for my startup tomorrow so I'll go to bed early and just grind out tomorrow. I really need to catch up on physics jesus.
-
 
 # 2023/08/11 - DAY 1
 I'm excited to start my life since I left my home environment and now that I'm writing this I'll probably keep a log of what I'm up to!
