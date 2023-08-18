@@ -2,6 +2,9 @@ Hey everyone, welcome to my temporary blog!
 I'm an aerospace materials engineering student at UBC interested in all sorts of things!
 When I'm not going to the gym, I like to keep up to date with world events and refine some analytic strategies for investing!
 
+# 2023/08/18
+Finals are finally done... That took a while but now I can focus on what I want to do. Im at the airport waiting for my flight to amsterdam with a layover to berlin so i have alot of time to relax and make commits.
+
 # 2023/08/16
 Final in 2 days. going to come back to my project after.
 
