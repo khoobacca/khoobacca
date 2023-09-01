@@ -2,6 +2,9 @@ Hey everyone, welcome to my temporary blog!
 I'm an aerospace materials engineering student at UBC interested in all sorts of things!
 When I'm not going to the gym, I like to keep up to date with world events and refine some analytic strategies for investing!
 
+# 2023/08/31
+Been a while since I wrote in this but I've been making progress on my data science project. pretty cool what i've learned so far and Ill just continue doing what I do. Im relearning python rn and ill see what happens
+
 # 2023/08/22
 Berlin is really fun. I managed to read the paper through the past couple days and I'm now familiar with the model. I'm going to start learing how to find proper data, scrub it, and use python and any libraries ill need. Ill probably end up using gpt4 for alot of the coding.
 
