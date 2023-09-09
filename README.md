@@ -2,6 +2,9 @@ Hey everyone, welcome to my temporary blog!
 I'm an aerospace materials engineering student at UBC interested in all sorts of things!
 When I'm not going to the gym, I like to keep up to date with world events and refine some analytic strategies for investing!
 
+# 2023/09/08
+Making commmits is gonna be harder over the year but it is what it is. My classes are going as good as they can for the first week... im thinking of going to my ode (math 255) prof and ask what research/getting a publication looks like to incentivize me working more consistently on it since Im learning this anyways. Maybe I can publish a paper where the end goal is a machine learning model that can predict and epidemic really well? i have the basic model down and if i can improve the model and compare it to real world data (what im doing rn) i can do the more complex ml. thats down the road.
+
 # 2023/08/31
 Been a while since I wrote in this but I've been making progress on my data science project. pretty cool what i've learned so far and Ill just continue doing what I do. Im relearning python rn and ill see what happens
 
